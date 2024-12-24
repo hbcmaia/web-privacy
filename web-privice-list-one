@@ -5,6 +5,7 @@
 ||analytics.tiktok.com^
 ||ap.lijit.com^
 ||api.parsely.com^
+||api.segment.io^
 ||aswpsdkus.com^
 ||b.t.tailtarget.com^
 ||bat.bing.com^
@@ -26,6 +27,7 @@
 ||display.bidder.taboola.com^
 ||dynamic.criteo.com^
 ||eb2.3lift.com^
+||edge.fullstory.com^
 ||eus.rubiconproject.com^
 ||fastlane.rubiconproject.com^
 ||fonts.gstatic.com^
@@ -39,7 +41,9 @@
 ||ib.adnxs.com^
 ||js-agent.newrelic.com^
 ||js-sec.indexww.com^
+||js.hs-analytics.net^
 ||js.hs-script.com^
+||js.stripe.com^
 ||m.t.tailtarget.com^
 ||match.adsrvr.org^
 ||match.sharethrough.com^
@@ -54,12 +58,14 @@
 ||prebid.media.net^
 ||prg.smartadserver.com^
 ||pub.dobleverify.com^
+||q.stripe.com^
 ||rtb.gumgum.com^
 ||s.go-mpulse.net^
 ||s.seedtag.com^
 ||sb.scorecardresearch.com^
 ||sdk.mrf.io^
 ||securepubads.g.doubleclick.net^
+||sessions.bugsnag.com^
 ||ssp-sync.criteo.com^
 ||ssp.disqus.com^
 ||ssum-sec.casalemedia.com^
