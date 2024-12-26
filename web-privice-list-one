@@ -14,14 +14,17 @@
 ||beacon.bidder.taboola.com^
 ||bs.yandex.ru^
 ||c.amazon-adsystem.com^
+||cdn.evgnet.com^
 ||cdn.jsdelivr.net^
 ||cdn.mouseflow.com^
+||cdn.perfdrive.com^
 ||cdn.taboola.com^
 ||cdn.tinypass.com^
 ||clarity.ms^
 ||cms.analytics.yahoo.com^
 ||connect.facebook.net^
 ||collect.igodigital.com.110004422^
+||collect.igodigital.com.514002401^
 ||crb.kargo.com^
 ||creativecdn.com^
 ||ct.pinterest.com^
@@ -41,6 +44,7 @@
 ||gum.criteo.com^
 ||hbx.media.net^
 ||htlb.casalemedia.com^
+||i.btg360.com.br^
 ||i.clean.gg^
 ||ib.adnx.com^
 ||ib.adnxs.com^
@@ -55,6 +59,7 @@
 ||micro.rubiconproject^
 ||ml314.com^
 ||monacobeatle.com^
+||p11.techlab-cdn.com^
 ||pagead2.googlesyndcation.com^
 ||pixel.rubiconproject^
 ||pixel.tapad.com^
@@ -68,6 +73,7 @@
 ||s.go-mpulse.net^
 ||s.seedtag.com^
 ||sb.scorecardresearch.com^
+||sc-static.net^
 ||sdk.mrf.io^
 ||securepubads.g.doubleclick.net^
 ||sessions.bugsnag.com^
