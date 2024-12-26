@@ -21,13 +21,16 @@
 ||clarity.ms^
 ||cms.analytics.yahoo.com^
 ||connect.facebook.net^
+||collect.igodigital.com.110004422^
 ||crb.kargo.com^
 ||creativecdn.com^
 ||ct.pinterest.com^
 ||d82afed-c874-40f4-8d17-f533b9b5d9b8.edge.permutive.app^
 ||datadoghq-browser-agent.com^
+||dev.visualwebsiteoptimizer.com^
 ||display.bidder.taboola.com^
 ||dynamic.criteo.com^
+||dwin1.com^
 ||eb2.3lift.com^
 ||edge.fullstory.com^
 ||eus.rubiconproject.com^
@@ -68,6 +71,7 @@
 ||sdk.mrf.io^
 ||securepubads.g.doubleclick.net^
 ||sessions.bugsnag.com^
+||snap.licdn.com^
 ||ssp-sync.criteo.com^
 ||ssp.disqus.com^
 ||ssum-sec.casalemedia.com^
@@ -84,8 +88,11 @@
 ||tcp.googlesyndication.com^
 ||trace.mediago.io^
 ||tt-10162-1.seg.t.tailtarget.com^
+||unpkg.com^
 ||u.openx.net^
+||websdk.appsflyer.com^
 ||widgets.outbrain.com^
 ||wnsrvbjmeprtfrnfx.ay.delivery^
 ||yahoo-match.dotomi.com^
+||x.cnt.my^
 ||zem.outbrainimg.com^
