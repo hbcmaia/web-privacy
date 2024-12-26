@@ -21,6 +21,7 @@
 ||c.amazon-adsystem.com^
 ||cdn.evgnet.com^
 ||cdn.mouseflow.com^
+||cdn.optimizely.com^
 ||cdn.perfdrive.com^
 ||cdn.taboola.com^
 ||cdn.tinypass.com^
@@ -48,11 +49,13 @@
 ||fastlane.rubiconproject.com^
 ||fonts.gstatic.com^
 ||frugalfiestas.com^
+||g.3gl.net
 ||gum.criteo.com^
 ||hbx.media.net^
 ||htlb.casalemedia.com^
 ||i.btg360.com.br^
 ||i.clean.gg^
+||img.en25.com^
 ||ib.adnx.com^
 ||ib.adnxs.com^
 ||image2.pubmatic.com^
@@ -86,6 +89,7 @@
 ||s.seedtag.com^
 ||sb.scorecardresearch.com^
 ||sc-static.net^
+||scripts.demandbase.com^
 ||sdk.mrf.io^
 ||securepubads.g.doubleclick.net^
 ||snap.licdn.com^
@@ -104,6 +108,7 @@
 ||synk-tm.everesttech.net^
 ||synk.go.sonobi.com^
 ||sync.rpf.fout.jp^
+||t.contentsqare.net^
 ||t.tailtarget.com^
 ||tags.bluekai.com^
 ||tags.creativevecdn.com^
